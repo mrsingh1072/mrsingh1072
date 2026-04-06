@@ -9,19 +9,15 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman
-        uses: Platane/snk@v3
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: mrsingh1072
-          outputs: |
-            dist/pacman.svg?palette=github-dark&animation=pacman
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
