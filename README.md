@@ -76,7 +76,7 @@
 ---
 ## 🕹️ Contribution Pacman
 
-![pacman gif](https://raw.githubusercontent.com/mrsingh1072/mrsingh1072/output/pacman.svg)
+![pacman gif](https://raw.githubusercontent.com/mrsingh1072/mrsingh1072/output/pacman-contribution-graph.svg)
 
 ---
 
