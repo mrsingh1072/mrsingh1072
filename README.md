@@ -74,6 +74,9 @@
 [![](https://visitcount.itsvg.in/api?id=mrsingh1072&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+## 🕹️ Contribution Pacman
+
+![pacman gif](https://raw.githubusercontent.com/mrsingh1072/mrsingh1072/output/pacman-contribution-graph.svg)
 
 ---
 
