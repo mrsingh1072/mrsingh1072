@@ -14,9 +14,11 @@ jobs:
 
     steps:
       - name: Generate Pacman
-        uses: yoshi389111/github-contribution-grid-pacman@main
+        uses: Platane/snk@v3
         with:
           github_user_name: mrsingh1072
+          outputs: |
+            dist/pacman.svg?palette=github-dark&animation=pacman
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
