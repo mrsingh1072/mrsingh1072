@@ -75,10 +75,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/mrsingh1072/mrsingh1072/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
