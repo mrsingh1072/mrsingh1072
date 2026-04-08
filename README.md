@@ -66,11 +66,14 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mrsingh1072&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrsingh1072&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrsingh1072&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mrsingh1072&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrsingh1072&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrsingh1072&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 ## 🕹️ Contribution Pacman
