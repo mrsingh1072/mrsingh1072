@@ -1,196 +1,297 @@
-# 👋 Hi, I'm Saurabh Kumar
+<!-- ========================= HERO ========================= -->
 
-### Full-Stack Developer • AI/ML Builder • Problem Solver
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=220&section=header&text=Saurabh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+</p>
 
-I build **production-ready web applications, AI-powered systems, and scalable backend solutions** focused on solving real-world problems.
-
-Currently focused on **Full-Stack Development, AI/ML, DSA, and System Design**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI-powered+products+%F0%9F%A4%96;Crafting+scalable+full-stack+applications+%F0%9F%9A%80;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1" />
+</p>
 
 <p align="center">
   <a href="https://github.com/mrsingh1072">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/saurabh-singh-959b48323">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:saurabhkumar08843@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mr.singh1072">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- ========================= INTRO ========================= -->
 
-- 🎓 B.Tech Computer Science & Engineering student at **SRM University-AP**
-- 💻 Building **full-stack applications and AI-powered products**
-- 🧠 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
-- ⚙️ Experienced with **React, Node.js, FastAPI, Python & MongoDB**
-- 📚 Currently improving **Data Structures, Algorithms & System Design**
-- 🔬 Worked as a **Research Intern at HyperQUEEN-MF**
-- 🏆 Participated in **6+ technical hackathons**
-- 🤝 Open to collaborating on **Open Source, AI and Full-Stack projects**
-- ☕ Fun fact: I turn coffee into clean, working code.
+<h2 align="center">⚡ Who Am I?</h2>
 
----
+<table align="center">
+<tr>
+<td width="55%">
 
-# 🛠️ Tech Stack
+### 👋 Hey, I'm Saurabh
 
-### 💻 Languages
+I'm a **Computer Science student and Full-Stack Developer** who enjoys turning ideas into useful software.
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+I work across:
+
+- 🤖 Artificial Intelligence & Generative AI
+- ⚛️ Modern frontend development
+- ⚙️ Backend engineering & APIs
+- 🗄️ Databases & system architecture
+- 🧠 Machine Learning & Explainable AI
+
+Currently sharpening my skills in **DSA, System Design and scalable software architecture**.
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github.com/mrsingh1072.png" width="220" style="border-radius:50%;"/>
+
+<br/><br/>
+
+<b>🎓 SRM University-AP</b>
+
+<br/>
+
+<b>💻 Full-Stack + AI</b>
+
+<br/>
+
+<b>🚀 Builder Mindset</b>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= WHAT I BUILD ========================= -->
+
+<h2 align="center">🧩 What I Build</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+AI-powered systems  
+Generative AI  
+RAG applications  
+Computer Vision  
+Explainable AI
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚛️ Full Stack
+
+React  
+Next.js  
+Node.js  
+FastAPI  
+MongoDB
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Engineering
+
+REST APIs  
+Authentication  
+Caching  
+Databases  
+System Design
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= TECH STACK ========================= -->
+
+<h2 align="center">🛠️ Technology Arsenal</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nextjs,nodejs,express,fastapi,flask,tailwind,mongodb,mysql,redis,docker,git,github,vercel,gcp,pytorch,tensorflow&perline=8" />
+
 </p>
 
-### 🎨 Frontend
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<!-- ========================= PROJECTS ========================= -->
 
-### ⚙️ Backend
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+<table align="center">
+<tr>
 
-### 🤖 AI / Machine Learning
+<td width="50%">
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+<h3>🎓 EduVerse AI</h3>
 
-### 🗄️ Databases & Cloud
+AI-powered personalized learning ecosystem.
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+<b>Stack</b>
 
-### 🔧 Tools
+React • FastAPI • MongoDB • Gemini • RAG
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-</p>
+<br/>
 
----
+<b>Highlights</b>
 
-# 🚀 Featured Projects
-
-### 🎓 Shiksha-Hub — AI-Powered Learning Ecosystem
-
-An AI-powered personalized learning platform designed to improve the way students learn and interact with educational content.
-
-**Tech:** React • FastAPI • Node.js • MongoDB • Gemini • RAG
-
-**Key Features**
 - 🤖 AI Tutor
-- 📚 Personalized learning
-- 📝 AI-powered exam generation
-- 👨‍🏫 Teacher dashboard
-- 📊 Student analytics
-- 💬 AI-powered educational assistance
+- 📝 AI Exam Generator
+- 👨‍🏫 Teacher Dashboard
+- 📊 Student Analytics
+- 🧠 AI-powered learning
 
----
+<br/>
 
-### 🧠 NeuroAge XAI — Brain Age Prediction
+<a href="https://github.com/mrsingh1072">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-An explainable AI system that predicts brain age from MRI scans while providing visual explanations of model decisions.
+</td>
 
-**Tech:** Python • PyTorch • CNN • Flask • React • Grad-CAM
+<td width="50%">
 
-**Key Features**
-- 🧠 Brain MRI analysis
-- 🔬 CNN-based prediction
-- 🔥 Grad-CAM visual explanations
-- 📊 Prediction analytics
-- 📄 Explainable AI reports
+<h3>🧠 NeuroAge XAI</h3>
 
----
+Explainable brain-age prediction from MRI scans.
 
-### 🚗 Trimurti Transport — Vehicle Rental Platform
+<b>Stack</b>
 
-A full-stack vehicle rental and management platform designed to simplify vehicle booking and fleet management.
+PyTorch • CNN • Flask • React • Grad-CAM
 
-**Tech:** React • Node.js • Express • MongoDB • Redis • Razorpay
+<br/>
 
-**Key Features**
+<b>Highlights</b>
+
+- 🧠 MRI analysis
+- 🔬 CNN prediction
+- 🔥 Grad-CAM
+- 📊 Model visualization
+- 📄 Explainable reports
+
+<br/>
+
+<a href="https://github.com/mrsingh1072/brain-age-detection">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🚗 Trimurti Transport</h3>
+
+Vehicle rental and fleet management platform.
+
+<b>Stack</b>
+
+React • Node.js • Express • MongoDB • Redis
+
+<br/>
+
 - 🚘 Vehicle booking
+- 💳 Razorpay payments
 - 👤 User management
-- 💳 Online payments
-- 📅 Booking management
-- ⚡ Redis-based optimization
+- ⚡ Redis optimization
 
----
+</td>
 
-### 💰 MoneyMatrix — Personal Finance Dashboard
+<td width="50%">
 
-A full-stack finance management application for tracking personal income, expenses and financial activity.
+<h3>💰 MoneyMatrix</h3>
 
-**Tech:** React • Node.js • Express • MongoDB
+Personal finance management dashboard.
 
-**Key Features**
+<b>Stack</b>
+
+React • Node.js • Express • MongoDB
+
+<br/>
+
 - 💵 Expense tracking
-- 📊 Financial dashboard
+- 📊 Financial analytics
 - 📈 Data visualization
-- 🔐 Secure authentication
+- 🔐 Authentication
 
----
+</td>
 
-# 🏆 Certifications & Experience
+</tr>
+</table>
 
-### 💼 Research Intern — HyperQUEEN-MF
-**SRM University-AP**
+<br/>
 
-- Worked on research-oriented image processing and deep learning systems
-- Achieved **38.12 dB PSNR**
-- Improved inference performance to **1.84 sec/image**
+<!-- ========================= EXPERIENCE ========================= -->
 
-### 📜 Certifications
+<h2 align="center">🏆 Experience & Achievements</h2>
 
-- 🟢 **SAP Certified – Generative AI Developer**
-- ☕ **Oracle Certified Professional – Java SE 17 Developer**
-- 🍃 **MongoDB Associate Developer**
-- 🤖 **Infosys Springboard – AI**
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🔬 Research
+
+**HyperQUEEN-MF**
+
+Research Intern
+
+38.12 dB PSNR  
+1.84 sec/image
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🏅 Hackathons
 
-**Participated in 6+ technical hackathons**, building and presenting full-stack and AI-powered solutions under strict deadlines.
+**6+ Technical Hackathons**
 
----
+Built and presented  
+full-stack & AI solutions  
+under strict deadlines.
 
-# 📊 GitHub Stats
+</td>
+
+<td align="center" width="33%">
+
+### 📜 Certifications
+
+SAP GenAI  
+Oracle Java SE 17  
+MongoDB Associate Developer  
+Infosys AI
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= GITHUB ========================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrsingh1072&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrsingh1072&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsingh1072&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -198,50 +299,70 @@ A full-stack finance management application for tracking personal income, expens
   <img src="https://streak-stats.demolab.com?user=mrsingh1072&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
+<br/>
 
-# 📈 Contribution Activity
+<!-- ========================= ACTIVITY ========================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsingh1072&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsingh1072&theme=tokyo-night&hide_border=true&area=true&radius=8" width="95%"/>
 </p>
 
----
+<br/>
 
-# 🎮 Contribution Pacman
+<!-- ========================= PACMAN ========================= -->
+
+<h2 align="center">🎮 Contribution Pacman</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrsingh1072/mrsingh1072/output/pacman-contribution-graph.svg" width="95%"/>
 </p>
 
----
+<br/>
 
-# 🤝 Let's Connect
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+<h2 align="center">🎯 Currently Focused On</h2>
 
 <p align="center">
-  <a href="https://github.com/mrsingh1072">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/saurabh-singh-959b48323">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saurabhkumar08843@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mr.singh1072">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Mrsingh1072">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+
+<img src="https://img.shields.io/badge/DSA-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=for-the-badge"/>
+
 </p>
 
----
+<br/>
+
+<!-- ========================= CONNECT ========================= -->
+
+<h2 align="center">🤝 Let's Build Something</h2>
 
 <p align="center">
-  <i>💡 Building ideas into products, one commit at a time.</i>
+  I'm always interested in interesting engineering problems,
+  AI projects and open-source collaboration.
 </p>
 
 <p align="center">
-  ⭐ If you find my work interesting, consider checking out my repositories!
+
+<a href="https://github.com/mrsingh1072">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/saurabh-singh-959b48323">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-4F46E5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+<br/>
+
+<p align="center">
+  <i>“Build. Break. Learn. Repeat.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=120&section=footer"/>
 </p>
